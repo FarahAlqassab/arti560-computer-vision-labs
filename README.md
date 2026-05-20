@@ -16,17 +16,14 @@ This repository contains code, datasets, and exercises for various **computer vi
 | 1  | Image Classification with Custom CNNs |
 | 2  | Transfer Learning |
 | 3  | Vision Transformer (ViT) |
-| 4  |  |
-| 5  |  |
-| 6  |  |
-| 7  |  |
-| 8  |  |
-| 9  |  |
-| 10 |  |
-| 11 |  |
-| 12 |  |
-| 13 |  |
-| 14 |  |
+| 4  | Object Detection |
+| 5  | Image Segmentation |
+| 6  | Motion Estimation |
+| 7  |  Action Recognition |
+| 8  |  Pose Estimation |
+| 9  |  Depth Estimation |
+| 10 |  Visual Representations |
+| 11 |  Vision and Language |
 
 ## Installation Using Conda
 
